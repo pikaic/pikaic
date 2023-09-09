@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Subhobrata</h1>
 <h3 align="center">Aspiring Software developer in Robotics and Computer Vision</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/pikaic/pikaic/blob/main/programmer_cat.png">
+<!-- <img align="right" alt="Coding" width="400" src="https://github.com/pikaic/pikaic/blob/main/programmer_cat.png"> -->
 
 <!-- - 🔭 I’m currently working on [Human Robot Interaction](https://github.com/hcicsebuffalo) -->
 
