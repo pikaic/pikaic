@@ -1,5 +1,5 @@
 [![MasterHead](https://github.com/sougato97/sougato97/blob/main/starry_night_2.png)](https://sougato97.github.io/)
-<h1 align="center">Hi 👋, I'm Sougato Bagchi</h1>
+<h1 align="center">Hi 👋, I'm Subhobrata</h1>
 <h3 align="center">Software developer in robotics and computer vision</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/sougato97/sougato97/blob/main/programmer_cat.png">
