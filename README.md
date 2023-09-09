@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/sougato97/sougato97/blob/main/starry_night_2.png)](https://sougato97.github.io/)
 <h1 align="center">Hi 👋, I'm Subhobrata</h1>
-<h3 align="center">Software developer in robotics and computer vision</h3>
+<h3 align="center">Aspiring Software developer in Robotics and Computer Vision</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/sougato97/sougato97/blob/main/programmer_cat.png">
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **tech, current economic affairs**
 
-- 📫 How to reach me :- **sougato97@gmail.com**
+- 📫 How to reach me :- **pikaic2010@gmail.com**
 
 - 📄 Know about my experiences [resume](https://sougato97.github.io/data/resume.pdf)
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sougato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sougato" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/subhobrata-chakraborty-345200224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subhobrata" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
